@@ -1,5 +1,9 @@
 # Fibonacci-Sequence
 
+![image](https://user-images.githubusercontent.com/48264093/196809278-6249eec2-6df8-4878-bcdf-d1c708340a84.png)
+
+Source: [Wikipedia Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number)
+
 # Files
 * fibonacci_sequence.py - Code on Python 3 with 2 functions.
 * pylint_fibonacci_sequence.txt - Report from Pylint for fibonacci_sequence.py
